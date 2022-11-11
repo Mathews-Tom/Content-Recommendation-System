@@ -1,2 +1,3 @@
-# Movie-Recommendation-System
-Movie Recommendation System based on MovieLens dataset
+# Content Recommendation System
+
+Content Recommendation System using [Surprise library](http://surpriselib.com/)
